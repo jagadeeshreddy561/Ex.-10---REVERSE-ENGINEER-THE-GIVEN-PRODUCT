@@ -31,12 +31,12 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-
+![MODEL](/10.1.jpg)
 ### Output:
+![MODEL](/mech10.png)
 
-
-### Name:
-### Register Number:
+### Name: Jagadeesh Reddy
+### Register Number: 212222240059
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
